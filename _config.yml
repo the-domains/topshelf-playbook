@@ -1,0 +1,28 @@
+name: TopShelf Playbook
+favicon: null
+layout_spectrum: 0.8911863039247692
+typography_spectrum: 0.10140101565048099
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.3907791005913168
+  lightness: 0.7478058934211731
+  saturation: 0.990811068797484
+  rhythmicContrast: 0.31079209549352527
+purpose: []
